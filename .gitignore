@@ -1,0 +1,38 @@
+# Derleme çıktıları
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Diğer editörler
+.idea/
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+artifacts/
+
+# Test ve geçici dosyalar
+TestResults/
+*.tmp
+*.log
+
+# İşletim sistemi dosyaları
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Uygulamanın kaydettiği tuş kayıt dosyaları
+tus_kayitlari_*.txt
